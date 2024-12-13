@@ -18,6 +18,14 @@
 
 ---
 
+### Database (_ORM and toolkits_)
+
+![Static Badge](https://img.shields.io/badge/SeaOrm-FF6?style=for-the-badge&logo=Rust&logoColor=black&logoSize=auto&labelColor=&link=https%3A%2F%2Fwww.sea-ql.org%2FSeaORM%2F)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/SQLX-FF6?style=for-the-badge&logo=Rust&logoColor=black&logoSize=auto&labelColor=&link=https%3A%2F%2Fgithub.com%2Flaunchbadge%2Fsqlx)
+
+---
+
 ### Other
 
 ![Static Badge](https://img.shields.io/badge/Docker-FF6?style=for-the-badge&logo=Docker&logoColor=blue&logoSize=auto&labelColor=&link=https%3A%2F%2Fwww.docker.com%2F)
